@@ -6,7 +6,7 @@
 
 On **Windows**, **<ins>tkinter</ins>** comes pre-installed with Python, and **<ins>base64</ins>** and **<ins>hashlib</ins>** are part of Python's standard library, so there's no need to install them separately.
 
-# all information about File and Foulders:-
+# All information about Files and Folders:-
 
 ### 1) The First Folder:
 The first folder is named **"Both Encryption And Decryption With GUI"**. Inside the folder, it has the **steganography_gui.py** file. When you run this file, it can perform both **Encryption and Decryption**.
