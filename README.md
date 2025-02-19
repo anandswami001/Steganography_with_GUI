@@ -26,5 +26,5 @@ The first folder is named **"Only Encryption With GUI"**. Inside the folder, it 
 The **Presentation1.pptx** contains all the information about the project.
 
 ### 5)png image:-
-**Original.png** = It's the original image **before** the **encryption**.
+**Original.png** = It's the original image **before** the **encryption**.<br/>
 **encoded_image.png** = This is the image **after** the **encryption**.
