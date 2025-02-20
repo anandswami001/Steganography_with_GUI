@@ -28,3 +28,6 @@ The **Presentation1.pptx** contains all the information about the project.
 ### 5)png image:-
 **Original.png** = It's the original image **before** the **encryption**.<br/>
 **encoded_image.png** = This is the image **after** the **encryption**.
+
+# Project Video:-
+https://github.com/user-attachments/assets/5ba765ac-ab01-4f80-a229-c988279b1a4c
